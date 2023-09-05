@@ -1,0 +1,70 @@
+.head{
+    color: blue;
+}
+.createSellBg{
+    background-color: #160E2A;
+    color: #FFFFFF;
+    text-align: center;
+}
+.sphearimg{
+    display: flex;
+    justify-content: center;
+}
+
+.createtext{
+    padding-top:65px ;
+    margin-left: -75px;
+    font-family: 'Inter', sans-serif;
+}
+
+.popintxt{
+    font-family: 'Poppins', sans-serif;
+}
+
+.intertxt{
+    font-family: 'Inter', sans-serif;
+}
+
+.text-ready{
+    text-align: center;
+    align-items: center;
+}
+.emailDiv{
+    background-color: #000000 !important;
+ 
+    width: 346px;
+    border-radius: 5px;
+    padding: 20px;
+    margin-left: 95px;
+    
+}
+.emaiBtn{
+    background-color: #000000;
+    color: #FFFFFF;
+    border:2px solid rgb(91, 147, 231);
+    width: 179px;
+    border-radius: 5px;
+    margin-left:40px;
+}
+
+
+
+@media only screen and ( max-width: 768px){
+
+
+    .createtext{
+   padding-top: 90px;
+    }
+    .emailDiv{
+        margin-left: 18px;
+    }
+    .emaiBtn{
+        margin-left: 8px
+    }
+
+
+    };
+
+
+
+

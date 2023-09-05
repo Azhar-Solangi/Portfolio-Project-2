@@ -1,0 +1,129 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500&family=Jura:wght@500&family=Poppins:wght@400;500;700&display=swap');
+.noclass{
+    background-color: aliceblue;
+}
+
+
+
+
+.nav-bg{
+    color: white;
+    border-bottom: 1px solid white ;
+    background: rgba(255, 255, 255, 0.10);
+backdrop-filter: blur(25px);
+}
+    
+    
+
+.btn-div{
+    display: flex;
+    justify-content: space-between;
+    padding: 0px 50px;
+}
+
+.meuesNav{
+    
+margin-left: 37%;
+font-family: 'Inter', sans-serif;
+font-weight: 400px !important;
+}
+
+
+
+.nav-btn{
+
+color: white;
+width: 112px;
+height: 42px;
+margin-left: 5px;
+font-family: 'Poppins', sans-serif; 
+border: 2px solid #8e0fe4;
+background: rgba(0, 0, 0, 0.40);
+backdrop-filter: blur(5px);
+/* border-image: linear-gradient(45deg, rgba(171, 47, 254, 1), rgba(64, 175, 253, 1)) 1; */
+border-radius: 5px !important;
+}
+.imgaeSize{
+    width: 60% !important;
+   
+    margin: 0px !;
+    padding: 0px !important;
+}
+
+.calmtxt{
+    background: linear-gradient(180deg, #E6B9FF 0%, #9E89FF 100%);
+background-clip: text;
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+
+
+font-family: 'Jura', sans-serif;
+font-size: 72px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+margin-top: 200px;
+}
+
+.videoDiv{
+    margin-left: -3%;
+    font-family: 'Poppins', sans-serif;
+}
+
+/* heroSection start here */
+
+
+.herobg{
+    background-color: #160E2A;
+    padding-bottom: 5%;
+
+}
+.radiusbg{
+    background-color: #1F1539;
+ 
+   
+
+
+    border-bottom-right-radius: 50% 10%;
+    border-bottom-left-radius:  50% 10%;
+  margin: 0;
+}
+
+
+.heroImage{
+    margin-top: -100px;
+    width: 700px !important;
+    margin-left: 30px;
+  
+}
+
+
+
+
+
+@media only screen and (max-width:768px){
+
+   .calmtxt{
+    font-size:40px;
+    font-weight: 900;
+    margin-top: 20px;
+
+   }
+   .calmtxtDiv{
+    margin-top: 0px !important;
+    padding-top: 0px !important;
+   }
+   .heroImage{
+    margin: 0px !important;
+   }
+   .meuesNav{
+    margin-left: 20px !important;
+   }
+  
+    
+    }
+
+
+
+
+

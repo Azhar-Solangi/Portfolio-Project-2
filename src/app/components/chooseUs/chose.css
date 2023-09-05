@@ -1,0 +1,63 @@
+.fake{
+    background-color: aqua;
+}
+
+
+
+.cosebg{
+ padding: 20px;
+    background-color:#160E2A;
+     padding-left:0px ;
+}
+.rowcss{
+    background-color: rgba(0, 0, 0, 0.4);
+   border: 2px solid rgb(52, 173, 221);
+   border-left: none;
+   margin-left: 0px;
+   margin-right: 100px !important;
+   color: white;
+   padding: 170px 0 170px 0;
+   margin: 80px 50px 80px 0;
+
+}
+
+.choseTxt{
+    margin-top: 38px;
+    margin-left: -75px;
+    font-family: 'Inter', sans-serif;
+
+}
+
+.chosePara{
+    font-size: 20px;
+    color: rgba(128, 171, 158, 1);
+    padding-left: 32px;
+    font-family: 'Poppins', sans-serif;
+}
+
+
+.cardp{
+    margin-left: 80px !important;
+}
+
+
+
+@media only screen and (max-width:768px) {
+
+    .rowcss{
+        border: none;
+        text-align: center;
+        padding: 0px;
+       
+    }
+    .choseCol{
+        margin-left: 55px;
+    }
+    .cardall{
+        margin-left: 80px;
+        
+    }
+    .lastcard{
+        margin-left:80px !important ;
+    }
+}

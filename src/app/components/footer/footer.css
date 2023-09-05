@@ -1,0 +1,62 @@
+.bg{
+    nav-down: current;
+}
+
+
+.intertxt{
+    font-family: 'Inter', sans-serif;
+    
+    
+}
+.copright{
+    border-top: 2px solid #AB2FFE ;
+    background-color: #000000;
+}
+
+.centr{
+    margin-top: 50px !important;
+}
+.copright1{
+   
+    background-color: #000000;
+    color:#545C71;
+   
+}
+.logow{
+    width: 200px;
+}
+
+
+
+
+
+
+
+
+@media only screen and ( max-width: 768px){
+
+
+    .centr{
+   padding-left: 20px;
+    }
+    .logow{
+        width: 200px;
+    }
+    .alignItems{
+        text-align: center;
+        margin-left: -40px !important;
+    }
+    .centr{
+        margin-left: -2px
+    }
+
+
+    .features{
+        text-align: center !important;
+    }
+    .policy{
+        text-align: center;
+    }
+    .intertxt{padding-left: 30px !important;
+    }
+    };

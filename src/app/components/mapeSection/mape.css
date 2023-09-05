@@ -1,0 +1,29 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500&family=Jura:wght@500&family=Poppins:wght@400;500;700&display=swap');
+
+.nouse{
+    background-color: aliceblue;
+}
+
+.mapebg{
+    background-color: #160E2A;
+}
+.images{
+    display:flex;
+    justify-content: center;
+    font-family: 'Poppins', sans-serif !important;
+}
+
+.toptxt{
+    color: white;
+    margin-top: 35px;
+    margin-left: -81px;
+    font-family: 'Inter', sans-serif;
+}
+/* .btn{
+    display:flex;
+    justify-content: center;
+    background-color: black;
+    color: white;
+    border-image: linear-gradient(45deg, rgba(171, 47, 254, 1), rgba(64, 175, 253, 1)) 1;
+} */

@@ -1,0 +1,52 @@
+
+.nouse{
+    color: rebeccapurple;
+}
+
+.nftBg{
+    background-color: #160E2A;
+ 
+}
+
+.bggradiant{
+    margin-top: -400px !important;     
+}
+
+.nftColectionTxt{
+    margin-top: 90px;
+    
+}
+.latesttxt{
+    color: white;
+    margin-top: 33px;
+    margin-left: -70px ;
+    font-family: 'Inter', sans-serif;
+}
+
+.paratxt{
+    font-size: 20px;
+    color: rgba(128, 171, 158, 1);
+    
+}
+.paratxtall{
+    font-family: 'Poppins', sans-serif;
+}
+
+
+
+
+@media only screen and (max-width:768px){
+
+.nftColectionTxt{
+ text-align: center;
+}
+.paratxtall{
+    margin-left: 0px !important;
+}
+.nftsm{
+    display: flex !important;
+    justify-content: center !important;
+    text-align: center !important;
+}
+
+}
